@@ -1,0 +1,69 @@
+.newspaperCompanyName{
+    margin-top: -0px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+
+.newspaperName-container1{
+    margin-top: 0px;
+    display: flex;
+    width: 50%;
+    
+}
+
+.newspaperName-container2{
+    margin-top: 0px;
+    display: flex;
+    width: 50%;
+}
+
+.newspaperName-1{
+    
+    line-height: 15px;
+    width: 25%;
+    text-align: right;
+    font-size: 12px;
+   
+}
+
+.newspaperName-2{
+    width: 45%;
+    
+}
+
+.the{
+    margin-top: 0px;
+    font-size: 140px;
+}
+
+.newspaperName-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    font-size: 12px;
+}
+
+.newspaperName-4{
+    width: 75%;
+}
+.newspaperName-5{
+    width: 25%;
+
+}
+
+.newspaperLogo{
+    width: 200px;
+
+}
+
+.since{
+    font-size: 9px;
+}
+.hindu{
+margin-top: 0px;
+    font-size: 140px;
+}
